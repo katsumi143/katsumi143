@@ -1,16 +1,14 @@
-### Hi there 👋
+## hello profile viewer
+you should totally check out [my 😱](https://twitter.com/Blookers3) and<br/>
+my my [mdpkm](https://github.com/Blookerss/mdpkm)<br/>
+and my [goggle trans](https://github.com/Blookerss/goggle-trans)<br/>
+they are my
+
+### top 10 languages
+- language
+- 
 
 <!--
-**Blookerss/Blookerss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+top 10 ideas:
+arson
 -->
